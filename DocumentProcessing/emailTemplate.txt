@@ -1,0 +1,9 @@
+Dear users,
+
+Berikut adalah hasil dari document understanding invoice dengan menggunakan
+unattended robot. Data invoices telah dikumpulkan dalam bentuk excel 
+yang akan saya lampirkan di bawah ini
+
+Sekian dan Terima Kasih
+
+Robot UIPath
